@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		129BB0F71DFF948C00377B6F /* lilongjunViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 129BB0F61DFF948C00377B6F /* lilongjunViewController.m */; };
 		2E1525C61CC086F300D0B933 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E1525C51CC086F300D0B933 /* main.m */; };
 		2E1525C91CC086F300D0B933 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E1525C81CC086F300D0B933 /* AppDelegate.m */; };
 		2E1525CC1CC086F300D0B933 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E1525CB1CC086F300D0B933 /* ViewController.m */; };
@@ -69,6 +70,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		129BB0F51DFF948C00377B6F /* lilongjunViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = lilongjunViewController.h; sourceTree = "<group>"; };
+		129BB0F61DFF948C00377B6F /* lilongjunViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = lilongjunViewController.m; sourceTree = "<group>"; };
 		2E1525C11CC086F300D0B933 /* XWPublishDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XWPublishDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E1525C51CC086F300D0B933 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2E1525C71CC086F300D0B933 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -210,6 +213,8 @@
 				2E1525C81CC086F300D0B933 /* AppDelegate.m */,
 				2E1525CA1CC086F300D0B933 /* ViewController.h */,
 				2E1525CB1CC086F300D0B933 /* ViewController.m */,
+				129BB0F51DFF948C00377B6F /* lilongjunViewController.h */,
+				129BB0F61DFF948C00377B6F /* lilongjunViewController.m */,
 				2E1525CD1CC086F300D0B933 /* Main.storyboard */,
 				2E1525D01CC086F300D0B933 /* Assets.xcassets */,
 				2E1525D21CC086F300D0B933 /* LaunchScreen.storyboard */,
@@ -518,6 +523,7 @@
 				2ED23B181CC0C4D800EA2AB6 /* MHeaderImaCell.m in Sources */,
 				2E1526711CC08DE400D0B933 /* XWPublishController.m in Sources */,
 				2E1525C91CC086F300D0B933 /* AppDelegate.m in Sources */,
+				129BB0F71DFF948C00377B6F /* lilongjunViewController.m in Sources */,
 				2E1526071CC08AD100D0B933 /* UIButton+WebCache.m in Sources */,
 				2E1526061CC08AD100D0B933 /* SDWebImagePrefetcher.m in Sources */,
 				2ED23B171CC0C4D800EA2AB6 /* MFlowLayOut.m in Sources */,
